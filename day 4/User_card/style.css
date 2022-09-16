@@ -1,0 +1,62 @@
+/*css reset*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*start of container*/
+.container{
+    background-color:white;
+    margin: 0px auto;
+    width:600px;
+    padding: 15px;
+    border: 5px solid;
+    border-color:rgb(195, 195, 204);
+}
+.user-circle{
+    height: 80px;
+    border:3px solid white;
+    border-radius: 50%;
+    position: relative;
+    top: 30px;
+    left:30px;
+
+}
+.navbar{
+    height: 100px;
+    width: 600px;
+    background-color:#17a2b8;
+    display:flex;
+}
+.map{
+    height: 15px; 
+    width: 15px;
+    margin-left: 25px;
+}
+h1{
+    margin:25px;
+    margin-bottom: 5px;
+}
+h3{
+    display: inline-block;
+    font-size: large;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.gear{
+    width: 16px;
+    height: 16px;
+    margin-left: 25px;
+}
+h4{
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: underline;
+    color:blue;
+    margin-left: 5px;
+}
+p {
+    margin-left: 25px;
+}
+.profile{
+    margin-top: 20px;
+}

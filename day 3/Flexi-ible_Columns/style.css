@@ -1,0 +1,16 @@
+/* css margin reset */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* must use flex, 
+make these following css classes:.row,.col,.col-2,.col-3
+ */
+
+ /* part 1  */
+.row{
+    display: flex;
+}
+.col{
+    flex:1;
+}

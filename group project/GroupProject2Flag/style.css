@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{ 
+    width:500px;
+}
+#flag{
+    width: 500px;
+    height: 300px;
+    background-color: black;
+}
+.topblue{
+    width: 500px;
+    height: 150px;
+    background-color: blue;
+}
+.bottomyellow{
+    width: 500px;
+    height: 150px;
+    background-color: yellow;
+}
+h1 {
+    text-align: center;
+}

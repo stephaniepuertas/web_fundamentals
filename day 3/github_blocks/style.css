@@ -1,0 +1,77 @@
+/*CSS REST*/
+*{
+    margin:0;
+    padding: 0;
+}
+/*START OF CONTAINER CSS */
+.container{
+    width:970px;
+    padding:10px 25px;
+    margin:0px 200px;
+    background-color: aquamarine;
+}
+/*Header formatting*/
+#header{
+    color: rgb(19, 47, 101);
+    text-align: center;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+/*Box formatting*/
+#box-1{
+    background-color: rgb(110, 111, 46);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+}
+#box-2{
+    background-color: chocolate;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+}
+#box-3{
+    background-color: rgb(128, 18, 102);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+    
+}
+/*resizing images*/
+
+.adventure{
+    width: 200px;
+}
+.grinch{
+    width: 200px;
+}
+.heinsen{
+    width: 200px;
+}
+.homer{
+    width: 200px;
+    margin-left: 100px;
+}
+.iron{
+    width: 200px;
+    margin-right: 100px;
+}
+.monroe{
+    width: 200px;
+}
+.steroid{
+    width: 200px;
+}
+.storm{
+    width: 200px;
+}
+h4{
+    text-align: center;
+}
